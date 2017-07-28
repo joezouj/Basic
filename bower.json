@@ -1,5 +1,5 @@
 {
-  "name": "basic",
+  "name": "phiot",
   "version": "0.0.0",
   "dependencies": {
     "jquery-ui": "^1.12.1",
