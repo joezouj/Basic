@@ -1,5 +1,5 @@
 {
-  "name": "phiot",
+  "name": "basic",
   "private": true,
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
